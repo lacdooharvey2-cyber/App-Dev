@@ -36,6 +36,15 @@
 
     --radius: 0.5rem;
 
+    --sidebar-background: 220 18% 10%;
+    --sidebar-foreground: 40 20% 92%;
+    --sidebar-primary: 38 90% 55%;
+    --sidebar-primary-foreground: 220 20% 6%;
+    --sidebar-accent: 38 90% 55%;
+    --sidebar-accent-foreground: 220 20% 6%;
+    --sidebar-border: 220 15% 18%;
+    --sidebar-ring: 38 90% 55%;
+
     --font-display: 'Space Grotesk', sans-serif;
     --font-body: 'Inter', sans-serif;
   }
